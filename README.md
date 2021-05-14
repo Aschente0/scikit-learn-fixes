@@ -1,4 +1,4 @@
-# CSCD01-cswasamistake
+# CSCD01
 
 Some personal fixes of issues in the scikit-learn library, raised by users.
 
